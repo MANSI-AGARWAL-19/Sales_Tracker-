@@ -1,16 +1,16 @@
 # Sales_Tracker-
 
-1. PROJECT TITLE
+## 1. PROJECT TITLE
    
 MOBILE SALES INSIGHTS DASHBOARD
 
 
-2.SHORT PURPOSE
+## 2.SHORT PURPOSE
 
 The sales_tracker dashboard is visually engaging and analytical power bi designed to help producers explore and compare between different mobile brands with different models across states of India. It includes total sales, quantity sold among different states. This help producers to decide the production units according to the customer ratings and on other basis.
 
 
-3. TECH STACK
+## 3. TECH STACK
 
 The dashboard was built using following tools and technologies:
 
@@ -22,13 +22,17 @@ DAX(Data analysis expression)- Used for calculated measure, for example MTD and 
 
 DATA MODELLING - Relationships established among tables,  for eg, custom_calendar and sales table, to enable cross filtering.
 
-4. BUSINESS IMPACT
+## 4. BUSINESS IMPACT
 
 Production companies can identify which state has highest sale. In which month and year they sold more units.
 
 Companies also compare their sales in diiferent months, quarters or years.
 
 
-5. screenshort
+## 5. Screenshort
 
    <img width="571" alt="dashboard ss" src="https://github.com/user-attachments/assets/ebb6b588-dd38-4cd2-a766-269f16c04734" />
+
+<img width="580" alt="dashboard 2" src="https://github.com/user-attachments/assets/348ab372-ed30-45d4-9dfb-31fc9d2b0ed4" />
+
+Second dashboard compare the sales of recent year, quarter and month by previous year, quarter and month sales by using stacked column chart.
